@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/tattii/Workspace/Radish2/ExpressionParser/ReversePolish/t'
+let g:netrw_dirhist_2='/Users/tattii/Workspace/Radish2/ExpressionParser'
+let g:netrw_dirhist_3='/Users/tattii/Workspace/Radish2/ExpressionParser/ReversePolish'
+let g:netrw_dirhist_4='/Users/tattii/Downloads'
+let g:netrw_dirhist_5='/Users/tattii/Downloads/XML-Parser-2.41'
