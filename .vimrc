@@ -3,7 +3,7 @@ syntax enable
 " colorsheme
 set background=dark
 let g:solarized_termcolors=256
-colorscheme solarized
+colorscheme molokai
 
 set mouse=a
 set scrolloff=4

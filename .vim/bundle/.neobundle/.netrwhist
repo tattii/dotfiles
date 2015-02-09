@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/tattii/Workspace/test-server/heroku/trackbox/public'
 let g:netrw_dirhist_2='/Users/tattii/Workspace/radish/Radish2/Template/t/web_client'
 let g:netrw_dirhist_3='/Users/tattii/Workspace/test-server/windmap/biwako'
@@ -8,3 +8,4 @@ let g:netrw_dirhist_5='/Users/tattii/Workspace/test-server/heroku/windmap-surf/v
 let g:netrw_dirhist_6='/Users/tattii/Workspace/test-server/windmap/earth/public'
 let g:netrw_dirhist_7='/Users/tattii/.vim'
 let g:netrw_dirhist_8='/Users/tattii/Workspace/test-server/polymer/test/bower_components'
+let g:netrw_dirhist_9='/Users/tattii/dotfiles/.vim/.vim'
