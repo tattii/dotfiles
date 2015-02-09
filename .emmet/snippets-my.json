@@ -1,0 +1,11 @@
+{
+	"variables": {
+
+	},
+	"html": {
+		"snippets": {
+			"!!": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<title></title>\n</head>\n<body>\n${1}\n</body>\n</html>",
+			"!p": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes\">\n\t<title></title>\n\t<script src=\"bower_components/webcomponentsjs/webcomponents.min.js\"></script>\n</head>\n<body>\n${1}\n</body>\n</html>"
+		}
+	}
+}
