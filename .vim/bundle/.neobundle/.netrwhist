@@ -1,2 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/tattii/Workspace/test-server/heroku/trackbox/public'
+let g:netrw_dirhist_2='/Users/tattii/Workspace/radish/Radish2/Template/t/web_client'
+let g:netrw_dirhist_3='/Users/tattii/Workspace/test-server/windmap/biwako'
+let g:netrw_dirhist_4='/Users/tattii/Workspace/node/twitter-aouth/bin'
+let g:netrw_dirhist_5='/Users/tattii/Workspace/test-server/heroku/windmap-surf/views'
+let g:netrw_dirhist_6='/Users/tattii/Workspace/test-server/windmap/earth/public'
+let g:netrw_dirhist_7='/Users/tattii/.vim'
+let g:netrw_dirhist_8='/Users/tattii/Workspace/test-server/polymer/test/bower_components'
