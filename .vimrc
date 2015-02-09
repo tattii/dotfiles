@@ -1,9 +1,10 @@
 syntax enable
 
 " colorsheme
-set background=dark
 let g:solarized_termcolors=256
 colorscheme molokai
+autocmd FileType perl colorscheme solarized
+set background=dark
 
 set mouse=a
 set scrolloff=4
@@ -11,6 +12,7 @@ set nobackup
 set number
 set ruler
 set cmdheight=1
+set laststatus=2
 
 " indent
 set tabstop=4
@@ -63,8 +65,7 @@ if neobundle#exists_not_installed_bundles()
   "finish
 endif
 
-
-NeoBundle 'Lokaltog/vim-powerline'
+NeoBundle 'itchyny/lightline.vim'
 NeoBundle 'tpope/vim-surround'
 NeoBundle 'Shougo/unite.vim'
 NeoBundle 'scrooloose/nerdtree'
