@@ -14,6 +14,7 @@ set number
 set ruler
 set cmdheight=1
 set laststatus=2
+set backspace=start,eol,indent
 
 " indent
 set tabstop=4
