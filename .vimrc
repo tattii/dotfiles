@@ -3,9 +3,9 @@ syntax enable
 " colorsheme
 colorscheme molokai
 
-let g:solarized_termcolors=256
-autocmd FileType perl colorscheme solarized
-autocmd FileType perl set background=dark
+" let g:solarized_termcolors=256
+" autocmd FileType perl colorscheme solarized
+" autocmd FileType perl set background=dark
 
 set mouse=a
 set scrolloff=4
